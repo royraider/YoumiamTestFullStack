@@ -3,10 +3,10 @@ YoumiamTestFullStack
 
 Test de FullStack Youmiam
 
-## Question 1 :
+## Question 0 :
 Install Symfony and your environement    
 
-## Question 2 : 
+## Question 1 : 
 Fix the homepage.    
 The homepage is broken. Find why.    
 
