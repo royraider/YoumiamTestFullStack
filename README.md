@@ -41,7 +41,7 @@ The "nouveau" text must be display only if the recipe is less than 10month old
 
 If you didn't manage to debug the homepage, you could use the /order-date page.     
 You can find the "like.png" in "YoumiamTestFullStack/src/AppBundle/Resources/public/images/like.png"    
-the image link are: 
+The recipes pictures links are: 
 - http://static.youmiam.com/images/recipe/200x200/ `photo` for Web    
 - http://static.youmiam.com/images/recipe/345x220/ `photo` for Mobile
 
