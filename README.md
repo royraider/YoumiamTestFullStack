@@ -1,7 +1,13 @@
 YoumiamTestFullStack
 ====================
 
-Test de FullStack Youmiam
+## Introduction
+
+Ceci est un test ayant pour but de valider les competences à repondre à un besoin fullstack.    
+Nous serons avant tout attentif aux performances, à la scalabilité et à la propreté du code proposé.    
+
+Good luck and Have fun ! :)    
+PS: Si une question n'est pas faite, pensez à laisser une petit commentaire pour donner votre idée.    
 
 ## Question 0 :
 Install Symfony and your environement    
