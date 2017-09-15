@@ -1,0 +1,18 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Page Title{% endblock %}
+
+{% block stylesheets %}
+    <!--- Styles Goes here !  --->
+{% endblock %}
+
+{% block body %}
+    {% for recipe in recipes %}
+        {{ recipe.title }} - {{ recipe.photo }} - {{  recipe.nbLikes }}<br>
+    {% endfor %}
+    <!--- HTML Goes here !  --->
+{% endblock %}
+
+{% block javascripts %}
+    <!--- Scripts Goes here !  --->
+{% endblock %}
